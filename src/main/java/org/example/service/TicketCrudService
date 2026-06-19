@@ -1,0 +1,5 @@
+create(Ticket ticket)
+getById(Long id)
+update(Ticket ticket)
+deleteById(Long id)
+listAll()
