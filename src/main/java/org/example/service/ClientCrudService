@@ -1,0 +1,5 @@
+create(Client client)
+getById(Long id)
+update(Client client)
+deleteById(Long id)
+listAll()
